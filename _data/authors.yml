@@ -8,11 +8,10 @@ carol:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Currently a graduate student in National Cheng Kung University, Taiwan.
+    Major in Engineering Science, focus on application of drones.
+    Love traveling, reading.
 
-    Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
   picture:
@@ -61,7 +60,7 @@ carol:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:carolc830708@gmail.com
+    email:           carolc830708@gmail.com
     # rss:             https://<url>/feed.xml
 
 # Another author
@@ -78,4 +77,4 @@ mdo:
     github:          <username>
     twitter:         <username>
   image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
-  color: '#268bd2'
+  color: '#e2b13c'
