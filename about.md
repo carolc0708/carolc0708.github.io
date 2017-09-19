@@ -6,10 +6,10 @@ order: 3
 ---
 
 ## Education
-* **National Cheng Kung University**, Tainan, Taiwan | Sep. 2016 - Jun. 2018
+* **National Cheng Kung University**, Tainan, Taiwan | Sep. 2016 - Jun. 2018<br/>
 M.S. in Engineering Science - Information and Application Group
 
-* **National Taiwan Normal University**, Taipei, Taiwan | Sep. 2012 - Jun. 2016
+* **National Taiwan Normal University**, Taipei, Taiwan | Sep. 2012 - Jun. 2016<br/>
 B.S. in Computer Science and Information Engineering
 
 ## Publications
