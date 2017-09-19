@@ -2,7 +2,7 @@
 layout: about
 title: CV/Résumé
 menu: true
-order: 3
+order: 1
 ---
 
 ## Education
