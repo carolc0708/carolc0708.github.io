@@ -2,7 +2,6 @@
 layout: page
 title: Documentation
 menu: true
-
 redirect_from:
   - /docs/latest/
   - /docs/
