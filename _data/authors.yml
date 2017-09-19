@@ -60,7 +60,7 @@ carol:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           carolc830708@gmail.com
+    email:           mailto:carolc830708@gmail.com
     # rss:             https://<url>/feed.xml
 
 # Another author
