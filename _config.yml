@@ -2,29 +2,29 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Carol
+title:               Jou-An Chen
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://qwtel.com
+url:                 carolc0708.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /hydejack
+baseurl:             ''
 
 # A very short description of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             Personal Page
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Open `_config.yml` to edit this text.
+  hihi.
+  nihao.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Jou-An> <Chen>
+  email:             <carolc830708@gmail.com>
 
 # Fallback image and color
 image:               /hydejack/assets/img/nap.jpg
