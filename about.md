@@ -17,14 +17,14 @@ B.S. in Computer Science and Information Engineering
 
 ## Projects
 * Answering OQA System Question Automatically by Extracting Answers from Knowledgebase and Web \| Jan. 2015 - Jan. 2016
-* GEOSAT Personal Data Shielding System | Apr. 2015 - Dec. 2015
+* GEOSAT Personal Data Shielding System \| Apr. 2015 - Dec. 2015
 * Integration Platform of Unmanned Aircraft Systems for Wireless Sensor Networks \| Jul. 2016 - Apr. 2017
 * AIoT Flying Robot for Smart Agriculture Management \| May. 2017 - Sep. 2015 
 
 
 ## Work Experience
-* Teaching Assistant, National Cheng Kung University, Tainan, Taiwan
-<p>Course: 
+* Teaching Assistant, National Cheng Kung University, Tainan, Taiwan<br/>
+Course: 
 	* Networked Embedded System and Its Applications (Fall, 2016)
 	* Implementation of Heterogeneous Multicore Embedded System (Spring, 2017)
 * GEOSAT Aerospace & Technology, Taipei/Tainan, Taiwan \| Apr. 2015 - Dec. 2015
