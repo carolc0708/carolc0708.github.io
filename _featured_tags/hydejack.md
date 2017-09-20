@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hydejack
-slug: hydejack
+title: Rapberry Pi 3
+slug: RaspberryPi
 menu: true
 order: 3
 description: >
