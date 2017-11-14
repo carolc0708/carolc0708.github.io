@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Course Note
+title: Projects
 slug: Notes
 menu: true
 order: 2
