@@ -13,7 +13,7 @@ AIoT Flying Robot for Smart Agriculture Management is a research project aims at
 
 In the projects, I worked on the programming of IoT infrastructure, combining all sensor devices through Web Application Messaging Protocol (WAMP). WAMP allows different device to communicate no matter what programming languages run on devices. Through the developing process, I found out how efficient it is to select the most suitable tools in dealing with this scenario, combining multiple sensing device with just single router not only the expedite the programming, but also make the whole system functionality robust. 
 
-{%slideshare CarolChen11/aiot-flying-robot-for-smart-agricultural-management %}
+
 
 
 
