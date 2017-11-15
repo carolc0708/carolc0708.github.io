@@ -30,7 +30,7 @@ Tzu-Hsuan Shao<br/>
 
 
 ## Related Media Coverage
-Appeared in News(Nov 2017): [Yahoo!](https://tw.news.yahoo.com/2017%E5%B9%B4%E6%99%BA%E6%85%A7%E8%81%AF%E7%B6%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-20%E7%B5%84%E9%AB%98%E6%89%8B%E6%B1%BA%E6%88%B0%E5%8D%97%E7%A7%91-150857028.html), [Hinet Mobile](https://times.hinet.net/mobile/news/20941227), [Hinet Times](https://times.hinet.net/news/20941805), [appledaily](https://tw.appledaily.com/new/realtime/20171105/1235495/), [CTSNews](http://news.cts.com.tw/taiwannews/society/201711/201711061898264.html#.WgvlmmiCzIU), [NOWnews](https://www.nownews.com/news/20171105/2638659), [PeoPo Citizen Journalism](http://www.peopo.org/news/350447) [[Video](https://www.youtube.com/watch?v=6GL80jz7SZI)]
+Appeared in News(Nov 2017): [Yahoo!](https://tw.news.yahoo.com/2017%E5%B9%B4%E6%99%BA%E6%85%A7%E8%81%AF%E7%B6%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-20%E7%B5%84%E9%AB%98%E6%89%8B%E6%B1%BA%E6%88%B0%E5%8D%97%E7%A7%91-150857028.html), [Hinet Mobile](https://times.hinet.net/mobile/news/20941227), [Hinet Times](https://times.hinet.net/news/20941805), [PChomeNews](http://news.pchome.com.tw/living/twpowernews/20171105/index-15098821559949347009.html), [COMNews](http://soyang.tw/~cpfc/index.php/tainan/15518-2017-30), [UdnNews](https://udndata.com/ndapp/udntag/finance/Article?origid=8886679) [Appledaily](https://tw.appledaily.com/new/realtime/20171105/1235495/), [CTSNews](http://news.cts.com.tw/taiwannews/society/201711/201711061898264.html#.WgvlmmiCzIU), [NOWnews](https://www.nownews.com/news/20171105/2638659), [PeoPo Citizen Journalism](http://www.peopo.org/news/350447) [[Video](https://www.youtube.com/watch?v=6GL80jz7SZI)]
 
 ![500x350](https://i.imgur.com/qw3W7TK.png)
 
