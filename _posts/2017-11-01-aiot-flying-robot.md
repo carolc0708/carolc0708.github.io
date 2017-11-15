@@ -15,12 +15,12 @@ AIoT Flying Robot for Smart Agriculture Management is a research project aims at
 
 
 ## Project Members
-Advisors: Prof. Yueh-Ming Huang, Dr. Ching-Ju Chen, Dr. 黃顯詔</br>
-**Jou-An Chen**</br>
-Chih-Yu Chen</br>
-Chein-Shien Wu</br>
-Wen-Chun Wang</br>
-Tzu-Hsuan Shao</br>
+Advisors: Prof. Yueh-Ming Huang, Dr. Ching-Ju Chen, Dr. 黃顯詔<br/>
+**Jou-An Chen**<br/>
+Chih-Yu Chen<br/>
+Chein-Shien Wu<br/>
+Wen-Chun Wang<br/>
+Tzu-Hsuan Shao<br/>
 
 
 ## Demonstration
