@@ -18,17 +18,17 @@ GPA: (Major) 3.8 / 4.3 | (Overall) 3.8 / 4.3 | (Last 60) 4.0 / 4.3
 
 ## Research And Industry Experience
 AIoT Flying Robot for Smart Agriculture Management | May.2017-Sep.2017<br/>
-	* Implemented real-time multi-device communication based on Web Application Messaging Protocol.<br/>
-	* Applied Convolution Neural Network on Pest Image Classification.<br/>
+* Implemented real-time multi-device communication based on Web Application Messaging Protocol.<br/>
+* Applied Convolution Neural Network on Pest Image Classification.<br/>
 Integration Platform of Unmanned Aircraft Systems for Wireless Sensor Networks | Jul.2016-Apr.2017<br/>
-	* Designed communication interface between UAS and Wireless Sensor Network based on XBee protocol.<br/>
-	* Implemented system integration between ROS and PX4 firmware.<br/>
+* Designed communication interface between UAS and Wireless Sensor Network based on XBee protocol.<br/>
+* Implemented system integration between ROS and PX4 firmware.<br/>
 Personal Data Shielding System, GEOSAT Aerospace & Technology (Taipei, Taiwan) | Apr.2015-Dec.2015<br/>
 *Artificial Intelligence Team, Research Development Internship*<br/>
-	* Developed software for automatically blurring faces and license plates in street view images collected by Mobile Mapping System.<br/>
-	* Designed hybrid algorithm based on two-step filtering and SVM procedure.<br/>
+* Developed software for automatically blurring faces and license plates in street view images collected by Mobile Mapping System.<br/>
+* Designed hybrid algorithm based on two-step filtering and SVM procedure.<br/>
 Answering OQA System Question Automatically by Extracting Answers from Knowledge base and Web | Jan.2015-Jan.2016<br/>
-	* Implemented automatic Question Answering System with Stanford Core NLP for semantic parsing and SPARQL for knowledge base extraction.
+* Implemented automatic Question Answering System with Stanford Core NLP for semantic parsing and SPARQL for knowledge base extraction.
 	
 ## Teaching
 * Teaching Assistant, National Cheng Kung University, Tainan, Taiwan<br/>
