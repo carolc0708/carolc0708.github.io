@@ -27,7 +27,7 @@ GPA: (Major) 3.8 / 4.3 | (Overall) 3.8 / 4.3 | (Last 60) 4.0 / 4.3
 *Artificial Intelligence Team, Research Development Internship*<br/>
 	* Developed software for automatically blurring faces and license plates in street view images collected by Mobile Mapping System.
 	* Designed hybrid algorithm based on two-step filtering and SVM procedure.<br/>
-* Answering OQA System Question Automatically by Extracting Answers from Knowledge base and Web \| Jan.2015-Jan.2016<br/>
+* Answering OQA System Questions Automatically by Extracting Answers from Knowledge base and Web \| Jan.2015-Jan.2016<br/>
 	* Implemented automatic Question Answering System with Stanford Core NLP for semantic parsing and SPARQL for knowledge base extraction.
 	
 ## Teaching
