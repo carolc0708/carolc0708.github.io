@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAVROS on RPi3'
-tags: [RaspberryPi]
+tags: [Notes]
 ---
 
 ###### tags: `ros` `mavros` `rpi` `sop`
