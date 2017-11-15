@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raspberry pi 設定 WIFI 固定 IP'
-tags: [RaspberryPi]
+tags: [Notes]
 ---
 
 ###### tags: `rpi` `wifi` `static-ip`
