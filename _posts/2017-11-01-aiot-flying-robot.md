@@ -32,26 +32,26 @@ Tzu-Hsuan Shao<br/>
 ## Related Media Coverage
 Appeared in News(Nov 2017): [Yahoo!](https://tw.news.yahoo.com/2017%E5%B9%B4%E6%99%BA%E6%85%A7%E8%81%AF%E7%B6%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-20%E7%B5%84%E9%AB%98%E6%89%8B%E6%B1%BA%E6%88%B0%E5%8D%97%E7%A7%91-150857028.html), [Hinet Mobile](https://times.hinet.net/mobile/news/20941227), [Hinet Times](https://times.hinet.net/news/20941805), [appledaily](https://tw.appledaily.com/new/realtime/20171105/1235495/), [CTSNews](http://news.cts.com.tw/taiwannews/society/201711/201711061898264.html#.WgvlmmiCzIU), [NOWnews](https://www.nownews.com/news/20171105/2638659), [PeoPo Citizen Journalism](http://www.peopo.org/news/350447) [[Video](https://www.youtube.com/watch?v=6GL80jz7SZI)]
 
-![](https://i.imgur.com/qw3W7TK.png =500x350)
+![500x350](https://i.imgur.com/qw3W7TK.png)
 
-![](https://i.imgur.com/jcG0NUo.png =500x350)
+![500x350](https://i.imgur.com/jcG0NUo.png)
 
-![](https://i.imgur.com/7D0TdZ6.png =500x350)
+![500x350](https://i.imgur.com/7D0TdZ6.png)
 
 
 ## Awards 
 #### Silver Medal, International ICT Innovative Services Awards 2017 *(held by Industrial Development Bureau)* 
 
-![](https://i.imgur.com/lcEAMUQ.jpg =500x350)
+![500x350](https://i.imgur.com/lcEAMUQ.jpg)
 
-![](https://i.imgur.com/hDHd0sV.jpg =300x400)
+![300x400](https://i.imgur.com/hDHd0sV.jpg)
 
-![](https://i.imgur.com/j7kGVKA.png =500x350)
+![500x350](https://i.imgur.com/j7kGVKA.png)
 
 #### Bronze Medal, Intelligent IoT Robot Design Contest 2017 *(held by Tainan Science-based Industrial Park)*
 
-![](https://i.imgur.com/CBBW0h4.png =300x400)
+![300x400](https://i.imgur.com/CBBW0h4.png)
 
-![](https://i.imgur.com/UkrRgyf.png =500x350)
+![500x350](https://i.imgur.com/UkrRgyf.png)
 
-![](https://i.imgur.com/yzumJCM.jpg =300x)
+![300x](https://i.imgur.com/yzumJCM.jpg)
