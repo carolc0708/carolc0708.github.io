@@ -1,11 +1,11 @@
 ---
 layout: list
 title: Projects
-slug: Notes
+slug: Projects
 menu: true
 order: 2
 description: >
-  線上課程筆記
+  My Past Projects.
 
 # http://jsfiddle.net/LPxrT/
 image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
