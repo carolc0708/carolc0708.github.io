@@ -40,7 +40,7 @@ GPA: (Major) 3.8 / 4.3 | (Overall) 3.8 / 4.3 | (Last 60) 4.0 / 4.3
 * Smart City Hackathon Tainan 2017 - First Place 
 * International ICT Innovative Services Awards 2017 - Silver Medal
 * Intelligent IoT Robot Design Contest 2017 - Bronze Medal
-* National Cheng Kung University Graduate Student Award *2 (Ranked 1st in CS Group)
+* NCKU Outstanding Graduate Student Scholarship *2 (Ranked 1st in CS Group)
 
 
 ## Skills
