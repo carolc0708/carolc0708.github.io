@@ -19,7 +19,7 @@ GPA: (Major) 3.8 / 4.3 | (Overall) 3.8 / 4.3 | (Last 60) 4.0 / 4.3
 [1] C.-J. Chen, **J.-A. Chen**, and Y.-M. Huang, “INTELLIGENT ENVIRONMENTAL SENSING WITH AN UNMANNED AERIAL SYSTEM IN A WIRELESS SENSOR NETWORK.,” International Journal on Smart Sensing & Intelligent Systems, vol. 10, no. 3, 2017.([PDF](http://s2is.org/Issues/v10/n3/papers/paper10.pdf))
 
 ## Research And Industry Experience
-* Robust Deep Reinforcement Learning for UAV Autonomous Navigation \| Aug.2017-Oct.2017<br/>
+* Robust Deep Reinforcement Learning for UAV Autonomous Navigation \| Nov.2017-present<br/>
 *Graduate Senior Thesis, Advisor: Prof. Yueh-Ming Huang*<br/>
 	* Designed rewards and policies in DQN based on Kinect and LiDAR sensors to speed up mental rehearsal of autonomous UAV in non-stationary environment.<br/>
 * Deep Drone-Realtime UAV Orthoimagery Processing \| Aug.2017-Oct.2017<br/>
