@@ -26,16 +26,16 @@ GPA: (Major) 3.8 / 4.3 | (Overall) 3.8 / 4.3 | (Last 60) 4.0 / 4.3
 *Individual Project, Advisor: Prof. Yueh-Ming Huang*<br/>
 	* Implemented object recognition and image segmentation on Jetson TX2 using YOLOv2, Faster-RCNN, SSD, and FCN.
 	* Developed system integration between Jetson TX2 and Pixhawk.<br/>
-* AIoT Flying Robot for Smart Agriculture Management \| May.2017-Sep.2017<br/>
+* AIoT Flying Robot for Smart Agriculture Management [page](https://carolc0708.github.io/2017/11/01/aiot-flying-robot/) \| May.2017-Sep.2017<br/>
 *Laboratory Project, Advisor: Prof. Yueh-Ming Huang*<br/>
 	* Implemented real-time multi-device communication for UAV and ground sensors based on Web Application Messaging Protocol.
 	* Applied CNN on UAV Visual Recognition.<br/>
-* Integration Platform of Unmanned Aircraft Systems for Wireless Sensor Networks \| Jul.2016-Apr.2017<br/>
+* Integration Platform of Unmanned Aircraft Systems for Wireless Sensor Networks [page](https://carolc0708.github.io/2016/12/01/platform/) \| Jul.2016-Apr.2017<br/>
 *Laboratory Project, Advisor: Prof. Yueh-Ming Huang*<br/>
 	* Designed communication interface between UAS and XBee-based WSN.
 	* Implemented ROS and MAVROS applications on APM/PX4 firmware.
 	* Researched methods for Informative Path Planning, autonomous navigation, tethered drones, and GPS-RTK enhancement.<br/>
-* Personal Data Shielding System, GEOSAT Aerospace & Technology (Taipei, Taiwan) \| Apr.2015-Dec.2015<br/>
+* Personal Data Shielding System [link](http://www.geosat.com.tw/ProductsMms.aspx), GEOSAT Aerospace & Technology (Taipei, Taiwan) \| Apr.2015-Dec.2015<br/>
 *Artificial Intelligence Team, Research Development Internship*<br/>
 	* Developed software for automatically blurring faces and license plates in street view images collected by Mobile Mapping System and UAV.
 	* Designed hybrid algorithm based on two-step filtering, tracking and SVM.
